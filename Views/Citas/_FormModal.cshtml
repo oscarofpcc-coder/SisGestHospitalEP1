@@ -1,0 +1,71 @@
+﻿@model SisGestionCitasMedicas.Models.Cita
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="modal fade" id="formModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title">@ViewBag.Titulo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <div class="modal-body">
+                <form id="formCita" method="post" action="@ViewBag.ActionUrl">
+
+                    @Html.AntiForgeryToken()
+
+                    @if (Model != null && Model.CitaId != 0)
+                    {
+                        <input type="hidden" name="Id" value="@Model.CitaId" />
+                    }
+
+                    <div class="row">
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <label class="form-label">Paciente</label>
+                                <select asp-for="PacienteId" asp-items="ViewBag.Pacientes" class="form-select">
+                                    <option value="">-- Seleccione Paciente --</option>
+                                </select>
+                            </div>
+
+                            <div class="col-md-6">
+                                <label class="form-label">Doctor</label>
+                                <select asp-for="DoctorId" asp-items="ViewBag.Doctores" class="form-select">
+                                    <option value="">-- Seleccione Doctor --</option>
+                                </select>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-md-6 mt-2">
+                            <label class="form-label">Fecha</label>
+                            <input name="Fecha" type="datetime-local"
+                                   value="@(Model?.FechaHora.ToString("yyyy-MM-ddTHH:mm"))"
+                                   class="form-control" />
+                        </div>
+
+                        <div class="col-md-6 mt-2">
+                            <label class="form-label">Motivo</label>
+                            <input name="Motivo" value="@Model?.Motivo" class="form-control" />
+                        </div>
+                    </div>
+
+                </form>
+
+                <div class="text-danger mt-2" id="formErrors"></div>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button class="btn btn-success" id="btnGuardar">Guardar</button>
+            </div>
+
+        </div>
+    </div>
+</div>
