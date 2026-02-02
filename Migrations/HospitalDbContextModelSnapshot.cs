@@ -224,7 +224,44 @@ namespace SisGestionCitasMedicas.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
-            modelBuilder.Entity("SisGestionCitasMedicas.Models.CitaMedica", b =>
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Catalogo", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("catalogo_id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CodCatalogo")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("cod_catalogo");
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("descripcion");
+
+                    b.Property<string>("Estado")
+                        .IsRequired()
+                        .HasMaxLength(1)
+                        .HasColumnType("nvarchar(1)")
+                        .HasColumnName("estado");
+
+                    b.Property<int>("TablaId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("TablaId");
+
+                    b.ToTable("Catalogos");
+                });
+
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Cita", b =>
                 {
                     b.Property<int>("CitaId")
                         .ValueGeneratedOnAdd()
@@ -236,6 +273,10 @@ namespace SisGestionCitasMedicas.Migrations
                     b.Property<int>("DoctorId")
                         .HasColumnType("int")
                         .HasColumnName("doctor_id");
+
+                    b.Property<int>("EmpresaId")
+                        .HasColumnType("int")
+                        .HasColumnName("empresa_id");
 
                     b.Property<string>("Estado")
                         .IsRequired()
@@ -260,6 +301,8 @@ namespace SisGestionCitasMedicas.Migrations
 
                     b.HasIndex("DoctorId");
 
+                    b.HasIndex("EmpresaId");
+
                     b.HasIndex("PacienteId");
 
                     b.ToTable("Citas");
@@ -280,6 +323,10 @@ namespace SisGestionCitasMedicas.Migrations
                         .HasColumnType("nvarchar(80)")
                         .HasColumnName("apellido");
 
+                    b.Property<int>("EmpresaId")
+                        .HasColumnType("int")
+                        .HasColumnName("empresa_id");
+
                     b.Property<string>("Especialidad")
                         .IsRequired()
                         .HasMaxLength(120)
@@ -299,7 +346,52 @@ namespace SisGestionCitasMedicas.Migrations
 
                     b.HasKey("DoctorId");
 
+                    b.HasIndex("EmpresaId");
+
                     b.ToTable("Doctores");
+                });
+
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Empresa", b =>
+                {
+                    b.Property<int>("EmpresaId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("empresa_id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EmpresaId"));
+
+                    b.Property<string>("CedRuc")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("ced_ruc");
+
+                    b.Property<string>("Estado")
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("estado");
+
+                    b.Property<string>("FechaDoc")
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("fec_doc");
+
+                    b.Property<string>("NombreComercial")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)")
+                        .HasColumnName("nom_tit");
+
+                    b.Property<bool?>("ObligadoContabilidad")
+                        .HasColumnType("bit")
+                        .HasColumnName("obligado_contabilidad");
+
+                    b.Property<string>("RazonSocial")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)")
+                        .HasColumnName("razon_social");
+
+                    b.HasKey("EmpresaId");
+
+                    b.ToTable("Empresas");
                 });
 
             modelBuilder.Entity("SisGestionCitasMedicas.Models.Paciente", b =>
@@ -316,6 +408,10 @@ namespace SisGestionCitasMedicas.Migrations
                         .HasMaxLength(80)
                         .HasColumnType("nvarchar(80)")
                         .HasColumnName("apellido");
+
+                    b.Property<int>("EmpresaId")
+                        .HasColumnType("int")
+                        .HasColumnName("empresa_id");
 
                     b.Property<DateTime>("FechaNacimiento")
                         .HasColumnType("datetime2")
@@ -334,7 +430,41 @@ namespace SisGestionCitasMedicas.Migrations
 
                     b.HasKey("PacienteId");
 
+                    b.HasIndex("EmpresaId");
+
                     b.ToTable("Pacientes");
+                });
+
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Tabla", b =>
+                {
+                    b.Property<int>("TablaId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("tabla_id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TablaId"));
+
+                    b.Property<string>("CodTabla")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("cod_tabla");
+
+                    b.Property<string>("Descripcion")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)")
+                        .HasColumnName("descripcion");
+
+                    b.Property<string>("Estado")
+                        .IsRequired()
+                        .HasMaxLength(1)
+                        .HasColumnType("nvarchar(1)")
+                        .HasColumnName("estado");
+
+                    b.HasKey("TablaId");
+
+                    b.ToTable("Tablas");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -388,11 +518,28 @@ namespace SisGestionCitasMedicas.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("SisGestionCitasMedicas.Models.CitaMedica", b =>
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Catalogo", b =>
+                {
+                    b.HasOne("SisGestionCitasMedicas.Models.Tabla", "Tabla")
+                        .WithMany("Catalogos")
+                        .HasForeignKey("TablaId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Tabla");
+                });
+
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Cita", b =>
                 {
                     b.HasOne("SisGestionCitasMedicas.Models.Doctor", "Doctor")
                         .WithMany("Citas")
                         .HasForeignKey("DoctorId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("SisGestionCitasMedicas.Models.Empresa", "Empresas")
+                        .WithMany("Citas")
+                        .HasForeignKey("EmpresaId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
@@ -404,7 +551,31 @@ namespace SisGestionCitasMedicas.Migrations
 
                     b.Navigation("Doctor");
 
+                    b.Navigation("Empresas");
+
                     b.Navigation("Paciente");
+                });
+
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Doctor", b =>
+                {
+                    b.HasOne("SisGestionCitasMedicas.Models.Empresa", "Empresas")
+                        .WithMany("Doctores")
+                        .HasForeignKey("EmpresaId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Empresas");
+                });
+
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Paciente", b =>
+                {
+                    b.HasOne("SisGestionCitasMedicas.Models.Empresa", "Empresas")
+                        .WithMany("Pacientes")
+                        .HasForeignKey("EmpresaId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Empresas");
                 });
 
             modelBuilder.Entity("SisGestionCitasMedicas.Models.Doctor", b =>
@@ -412,9 +583,23 @@ namespace SisGestionCitasMedicas.Migrations
                     b.Navigation("Citas");
                 });
 
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Empresa", b =>
+                {
+                    b.Navigation("Citas");
+
+                    b.Navigation("Doctores");
+
+                    b.Navigation("Pacientes");
+                });
+
             modelBuilder.Entity("SisGestionCitasMedicas.Models.Paciente", b =>
                 {
                     b.Navigation("Citas");
+                });
+
+            modelBuilder.Entity("SisGestionCitasMedicas.Models.Tabla", b =>
+                {
+                    b.Navigation("Catalogos");
                 });
 #pragma warning restore 612, 618
         }

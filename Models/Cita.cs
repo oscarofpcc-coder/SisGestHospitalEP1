@@ -31,7 +31,12 @@ namespace SisGestionCitasMedicas.Models
         public string Estado { get; set; } = "Programada";
         // Programada | Atendida | Cancelada
 
-        // Navigation
+        //FK
+        [Column("empresa_id")]
+        public int EmpresaId { get; set; } = 1;
+        public Empresa? Empresas { get; set; } = null!;  // Navegación
+
+        //Relacion con pacientes y doctores
         public Paciente? Paciente { get; set; }
         public Doctor? Doctor { get; set; }
     }

@@ -56,6 +56,7 @@ namespace SisGestionCitasMedicas
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("DoctorId,Nombre,Apellido,Especialidad,Telefono")] Doctor doctor)
         {
+
             if (ModelState.IsValid)
             {
                 _context.Add(doctor);

@@ -26,7 +26,14 @@ namespace SisGestionCitasMedicas.Models
         [Column("telefono")]
         public string? Telefono { get; set; }
 
+        // FK
+        [Column("empresa_id")]
+        public int EmpresaId { get; set; } = 1;
+        public Empresa? Empresas { get; set; } = null!;  // Navegación
         public ICollection<Cita> Citas { get; set; } = new List<Cita>();
+        
+
+
     }
 }
 

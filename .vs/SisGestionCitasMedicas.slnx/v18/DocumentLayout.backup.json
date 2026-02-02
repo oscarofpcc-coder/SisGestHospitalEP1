@@ -3,100 +3,24 @@
   "WorkspaceRootPath": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\catalogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:catalogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:models\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\citas\\_formmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\citas\\_formmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\models\\tabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:models\\tabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\citas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\citas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\citas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\citas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\citas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\doctorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:doctorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\doctores\\_createmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\doctores\\_createmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\doctores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\doctores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\doctores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\doctores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\doctores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\doctores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|c:\\mamp\\htdocs\\sisgesthospitalep1\\sisgestioncitasmedicas\\views\\catalogos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD593336-C316-F32F-8AB1-988EA7D41C63}|SisGestionCitasMedicas.csproj|solutionrelative:views\\catalogos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,311 +29,73 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "DockedWidth": 265,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T02:04:50.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Citas\\Edit.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Citas\\Edit.cshtml",
+              "DocumentIndex": 2,
+              "Title": "Tabla.cs",
+              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Tabla.cs",
+              "RelativeDocumentMoniker": "Models\\Tabla.cs",
+              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Tabla.cs",
+              "RelativeToolTip": "Models\\Tabla.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T02:01:51.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Citas\\Create.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Create.cshtml",
-              "RelativeToolTip": "Views\\Citas\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T15:52:26.253Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:52:06.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Citas\\Index.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Index.cshtml",
-              "RelativeToolTip": "Views\\Citas\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:15:26.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_FormModal.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\_FormModal.cshtml",
-              "RelativeDocumentMoniker": "Views\\Citas\\_FormModal.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\_FormModal.cshtml",
-              "RelativeToolTip": "Views\\Citas\\_FormModal.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T15:59:15.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:16:00.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:14:45.196Z",
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:50:17.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACoAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:14:58.793Z",
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Catalogo.cs",
+              "RelativeDocumentMoniker": "Models\\Catalogo.cs",
+              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Catalogo.cs",
+              "RelativeToolTip": "Models\\Catalogo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:49:38.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:16:03.049Z",
+              "Title": "CatalogosController.cs",
+              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\CatalogosController.cs",
+              "RelativeDocumentMoniker": "CatalogosController.cs",
+              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\CatalogosController.cs",
+              "RelativeToolTip": "CatalogosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:49:29.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Citas\\Details.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Details.cshtml",
-              "RelativeToolTip": "Views\\Citas\\Details.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T02:01:55.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Citas\\Delete.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Citas\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Citas\\Delete.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T02:01:59.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DoctoresController.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\DoctoresController.cs",
-              "RelativeDocumentMoniker": "DoctoresController.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\DoctoresController.cs",
-              "RelativeToolTip": "DoctoresController.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:09:18.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Models\\Doctor.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Doctor.cs",
-              "RelativeToolTip": "Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:11:39.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cita.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Cita.cs",
-              "RelativeDocumentMoniker": "Models\\Cita.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Models\\Cita.cs",
-              "RelativeToolTip": "Models\\Cita.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:18:19.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CitasController.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\CitasController.cs",
-              "RelativeDocumentMoniker": "CitasController.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\CitasController.cs",
-              "RelativeToolTip": "CitasController.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAkwK0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:08:34.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_CreateModal.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\_CreateModal.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doctores\\_CreateModal.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\_CreateModal.cshtml",
-              "RelativeToolTip": "Views\\Doctores\\_CreateModal.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:54:19.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doctores\\Create.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\Create.cshtml",
-              "RelativeToolTip": "Views\\Doctores\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Catalogos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalogos\\Create.cshtml",
+              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Catalogos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Catalogos\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:11:52.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:19:26.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:08:15.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doctores\\Edit.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Doctores\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:12:16.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:15:54.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PacientesController.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\PacientesController.cs",
-              "RelativeDocumentMoniker": "PacientesController.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\PacientesController.cs",
-              "RelativeToolTip": "PacientesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:09:12.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Doctores\\Index.cshtml",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Views\\Doctores\\Index.cshtml",
-              "RelativeToolTip": "Views\\Doctores\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-30T04:12:02.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\MAMP\\htdocs\\SisGestHospitalEP1\\SisGestionCitasMedicas\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T04:07:22.206Z"
+              "WhenOpened": "2026-02-02T02:49:24.736Z",
+              "EditorCaption": ""
             }
           ]
         }
